@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>gittest_pkg</name>
+  <version>0.0.0</version>
+  <description>The gittest_pkg package</description>
+
+ 
+  <maintainer email="jfalk19@student.aau.dk">Jonathan Falk</maintainer>
+
+
+  <license>MIT</license>
+
+
+  <author email="jfalk19@student.aau.dk">Jonathan Falk</author> -->
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+
+
+  <export>
+   
+
+  </export>
+</package>
